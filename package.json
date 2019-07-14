@@ -1,0 +1,19 @@
+{
+  "name": "fp-ts-examples",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadeesha/fp-ts-examples.git"
+  },
+  "author": "Nadeesha Cabral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nadeesha/fp-ts-examples/issues"
+  },
+  "homepage": "https://github.com/nadeesha/fp-ts-examples#readme"
+}
