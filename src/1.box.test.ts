@@ -1,4 +1,4 @@
-import { box } from "./box";
+import { box } from "./1.box";
 import { identity } from "./util";
 
 test("add", () => {
